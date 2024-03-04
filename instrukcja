@@ -1,0 +1,4 @@
+1. Zastosowana wtyczka to: DrawAttention 2.0.21 Autorstwa: N Squared
+2. Import następuje w Draw Attention -> Import / Export (Tekst z pliku import.txt)
+3. Grafikę musi Pan dodać po prawej stronie we właściwościach
+4. Aby dodać mapę na stronę trzeba użyć shortcode: [drawattention]
